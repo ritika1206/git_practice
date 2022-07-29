@@ -1,0 +1,7 @@
+# Not tracking node modules
+node_modules/
+
+# specific file
+notes.txt
+
+*.log
