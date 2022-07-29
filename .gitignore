@@ -4,4 +4,5 @@ node_modules/
 # specific file
 notes.txt
 
+# generatlization for ignoreing
 *.log
